@@ -1,4 +1,4 @@
-# 🧠 Smart Daily Planner Backend
+# 🧠 Cognitive Daily Backend
 
 FastAPI backend powering the Smart Daily Planner app — an AI-driven, energy-aware daily planning and productivity platform.
 
