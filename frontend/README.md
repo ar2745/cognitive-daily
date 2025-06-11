@@ -1,4 +1,4 @@
-# 🌟 Smart Daily Planner Frontend
+# 🌟 Cognitive Daily Frontend
 
 Modern, mobile-first React app for Smart Daily Planner — AI-powered daily planning, task management, and productivity.
 
