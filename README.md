@@ -1,4 +1,4 @@
-# Smart Daily Planner
+# Cognitive Daily
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-# Smart Daily Planner
+# Cognitive Daily
 
 **An intelligent, energy-aware daily planning and task management system powered by AI and real-time data.**
 
